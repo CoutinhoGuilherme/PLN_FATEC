@@ -42,22 +42,22 @@ Utiliza técnicas como reconhecimento de entidades nomeadas (NER), análise de c
 ---
 
 ## 📁 Aula-10 — *Análise Sentimentos*
-### Extração de Padrões e Entidades Relevantes  
-Utiliza técnicas como reconhecimento de entidades nomeadas (NER), análise de coocorrência e visualizações com nuvem de palavras para extrair informações úteis de grandes volumes de texto.
+### Técnicas para Avaliação de Polaridade em Textos  
+Explora métodos para identificar emoções em conteúdos textuais, incluindo análise léxica com VADER e implementação de classificadores probabilísticos como Naive Bayes para categorização de sentimentos positivos/negativos.
 
 ---
 ---
 
 ## 📁 Aula-11 — *Machine Learning*
-### Extração de Padrões e Entidades Relevantes  
-Utiliza técnicas como reconhecimento de entidades nomeadas (NER), análise de coocorrência e visualizações com nuvem de palavras para extrair informações úteis de grandes volumes de texto.
+### Modelos Preditivos para Classificação Textual  
+Aborda algoritmos de aprendizado supervisionado aplicados a PLN, como SVM e Random Forests, com foco em pré-processamento de dados, extração de features e avaliação de desempenho em tarefas de categorização.
 
 ---
 ---
 
 ## 📁 Aula-13 — *Redes Neurais*
-### Extração de Padrões e Entidades Relevantes  
-Utiliza técnicas como reconhecimento de entidades nomeadas (NER), análise de coocorrência e visualizações com nuvem de palavras para extrair informações úteis de grandes volumes de texto.
+### Arquiteturas Profundas para Compreensão de Linguagem  
+Introduz redes neurais recorrentes (RNNs) e transformers, demonstrando sua aplicação em modelagem sequencial, geração de texto e tradução automática com bibliotecas como TensorFlow/Keras.
 
 ---
 
