@@ -39,6 +39,27 @@ Investiga a semântica das sentenças e o uso de gramáticas formais. São explo
 Utiliza técnicas como reconhecimento de entidades nomeadas (NER), análise de coocorrência e visualizações com nuvem de palavras para extrair informações úteis de grandes volumes de texto.
 
 ---
+---
+
+## 📁 Aula-10 — *Análise Sentimentos*
+### Extração de Padrões e Entidades Relevantes  
+Utiliza técnicas como reconhecimento de entidades nomeadas (NER), análise de coocorrência e visualizações com nuvem de palavras para extrair informações úteis de grandes volumes de texto.
+
+---
+---
+
+## 📁 Aula-11 — *Machine Learning*
+### Extração de Padrões e Entidades Relevantes  
+Utiliza técnicas como reconhecimento de entidades nomeadas (NER), análise de coocorrência e visualizações com nuvem de palavras para extrair informações úteis de grandes volumes de texto.
+
+---
+---
+
+## 📁 Aula-13 — *Redes Neurais*
+### Extração de Padrões e Entidades Relevantes  
+Utiliza técnicas como reconhecimento de entidades nomeadas (NER), análise de coocorrência e visualizações com nuvem de palavras para extrair informações úteis de grandes volumes de texto.
+
+---
 
 ## 📁 Projeto-01 — *Corpus Textual*
 ### Construção e Exploração de Corpus  
